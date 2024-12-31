@@ -1,5 +1,1 @@
-server.log
-a.log
-b.log
-c.log
-
+*.log
